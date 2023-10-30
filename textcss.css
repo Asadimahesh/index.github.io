@@ -1,0 +1,33 @@
+body{
+    background-color: blanchedalmond;
+}
+#name{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+    text-shadow: 6px 2px 5px gray;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    text-align: center;
+    text-decoration: overline;
+    font-style: italic;
+    letter-spacing: 10px;
+}
+h6{
+    border: 2px solid blue;
+    word-spacing: 10px;
+    text-indent: 50px;
+    line-height: 40px;
+    text-align: justify;
+    margin: 20px;
+    padding: 20px;
+}
+h6::first-letter{
+    font-size: 40px;
+}
+a:hover{
+    color: yellow;}
+    a:hover{
+        color: black;
+    }
